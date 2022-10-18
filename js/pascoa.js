@@ -56,7 +56,7 @@ const showMenu = (toggleId, navId) => {
   }
   window.addEventListener('scroll', scrollHeader)
   
-  /*==================== SHOW SCROLL TOP ====================*/
+  /*==================== SHOW SCROLL TOOP ====================*/
   function scrollTop() {
     const scrollTop = document.getElementById('scroll-top')
     // When the scroll is higher than 560 viewport height, add the show-scroll class to the a tag with the scroll-top class
